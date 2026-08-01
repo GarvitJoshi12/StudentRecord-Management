@@ -1,2 +1,2 @@
-# Student-Record-Management
-Student Record Management is a system designed to store, manage, and manipulate student information efficiently. In this approach, a structure is used to group student details such as name, semester , CGPA into a single unit called a node.  Overall, the topic demonstrates a real-life application of data structures .
+Student Record Management System is a software project designed to manage and maintain student information digitally. It allows users to add, view, update, search, and delete student records efficiently.
+The system can store details such as student name, roll number, course, semester, contact information, and academic details. It reduces manual paperwork and makes student data easier to organize and access.
