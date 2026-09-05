@@ -1,2 +1,5 @@
 rollNo|name|department|semester|cgpa|attendance
-1|Avijot Kaur|BCA AI$DS|3|7.15|75.00
+1|Avijot Kaur|BCA AI DS|3|7.15|75.00
+2|Deepanshu Palariya|BCA AI DS|3|8.5|92.00
+3|Dipanshu Joshi|BCA AI DS|3|6.3|53.00
+4|Garvit Joshi|BCA AI DS|3|8.2|87.00
