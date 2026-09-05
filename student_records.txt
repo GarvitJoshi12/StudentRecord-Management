@@ -1,0 +1,2 @@
+rollNo|name|department|semester|cgpa|attendance
+1|Avijot Kaur|BCA AI$DS|3|7.15|75.00
