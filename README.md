@@ -59,11 +59,3 @@ The application creates `student_records.txt` automatically in the same folder. 
 | Search / update / delete by roll number | O(n) |
 | Display / statistics | O(n) |
 | Merit / name report | O(n log n) average after O(n) array creation |
-
-## Suggested Viva Questions
-
-1. Why is a linked list suitable when the number of students is unknown?
-2. How does deletion differ for the first node and later nodes?
-3. Why is a temporary array used for sorting reports instead of changing the linked list?
-4. What is the difference between stack allocation and dynamic memory allocation?
-5. Why must every allocated node be freed before program exit?
